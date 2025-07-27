@@ -1,3 +1,5 @@
+# the 2006 entry will update 1:1 with each episode, the 2009 series will update in jumps to accommodate duplication
+# e.g. after episode 8 the 2009 entry will go from 0 to 8 episode watched
 849:
   tvdb_mappings:
     s1: e1-e7,e9-e11,e25-e28
