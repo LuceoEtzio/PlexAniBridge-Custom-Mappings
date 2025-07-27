@@ -4,3 +4,7 @@
 10739:
   tvdb_mappings:
     s0: e1
+151799:
+  tmdb_show_id: 246862
+  tvdb_mappings:
+    s1: e1,e2-e3|-2,e4-e6|-3,e7-
