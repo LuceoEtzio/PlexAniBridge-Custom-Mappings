@@ -1,0 +1,5 @@
+$includes:
+- TMDB Order.json
+17074:
+  tvdb_mappings:
+    s4: e1-e22,e23|-4

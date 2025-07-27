@@ -1,0 +1,26 @@
+21355:
+  tvdb_mappings:
+    s1: e1-e25
+21780:
+  tvdb_mappings:
+    s0: e1-e11
+21891:
+  tvdb_mappings:
+    s0: e12-e25
+100049:
+  tvdb_mappings:
+108632:
+  tvdb_mappings:
+    s1: e26-e38
+119661:
+  tvdb_mappings:
+    s1: e39-e50
+120700:
+  tvdb_mappings:
+    s0: e26-e38
+128306:
+  tvdb_mappings:
+    s0: e39-e50
+163134:
+  tvdb_mappings:
+    s1: e51-e66
