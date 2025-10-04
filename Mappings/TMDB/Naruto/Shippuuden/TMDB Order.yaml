@@ -1,6 +1,14 @@
 1735:
   tmdb_mappings:
     s1: e1-e32
+    s2: e1-e21
+    s3: e1-e18
+    s4: e1-e17
+    s5: e1-e24
+    s6: e1-e31
+    s7: e1-e8
+    s8: e1-e24
+    s9: e1-e21
     s10: e1-e25
     s11: e1-e21
     s12: e1-e33
@@ -11,15 +19,7 @@
     s17: e1-e11
     s18: e1-e21
     s19: e1-e20
-    s2: e1-e21
     s20: e1-e87
-    s3: e1-e18
-    s4: e1-e17
-    s5: e1-e24
-    s6: e1-e31
-    s7: e1-e8
-    s8: e1-e24
-    s9: e1-e21
 4134:
   tmdb_mappings:
     s0: e1
