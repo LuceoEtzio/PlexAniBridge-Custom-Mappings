@@ -1,0 +1,23 @@
+6702:
+  tmdb_mappings:
+    s1: e1-e48
+    s2: e1-e48
+    s3: e1-e54
+    s4: e1-e25
+9982:
+  tmdb_mappings:
+    s0: e1-e5
+18393:
+  tmdb_mappings:
+    s0: e6
+20626:
+  tmdb_mappings:
+    s5: e1-e51
+    s6: e1-e39
+    s7: e1-e12
+99749:
+  tmdb_mappings:
+    s8: e1-e51
+150078:
+  tmdb_mappings:
+    s0: e7-e9

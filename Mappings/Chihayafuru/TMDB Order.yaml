@@ -1,0 +1,12 @@
+10800:
+  tmdb_mappings:
+    s1: e1-e25
+14397:
+  tmdb_mappings:
+    s2: e1-e25
+18745:
+  tmdb_mappings: 
+    s0: e1
+101215:
+  tmdb_mappings:
+    s3: e1-e24
