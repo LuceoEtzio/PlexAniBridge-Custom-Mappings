@@ -1,31 +1,37 @@
 18:
-  tvdb_mappings:
+  tmdb_mappings:
     s3: e1-e24
+185:
+  tmdb_mappings:
+    s1: e1-e26
+186:
+  tmdb_mappings:
+    s2: e1-e13
 187:
-  tvdb_mappings:
+  tmdb_mappings:
 3931:
-  tvdb_mappings:
+  tmdb_mappings:
     s0: e6
 5228:
-  tvdb_mappings:
+  tmdb_mappings:
     s0: e7
 12725:
-  tvdb_mappings:
+  tmdb_mappings:
     s0: e4
 15059:
-  tvdb_mappings:
+  tmdb_mappings:
     s4: e1-e14
 19613:
-  tvdb_mappings:
-    s4: e1-e4
+  tmdb_mappings:
+    s5: e1-e4
 20842:
-  tvdb_mappings:
+  tmdb_mappings:
 20990:
-  tvdb_mappings:
+  tmdb_mappings:
 21289:
-  tvdb_mappings:
+  tmdb_mappings:
 132634:
-  tvdb_mappings:
+  tmdb_mappings:
     s0: e8
 145405:
-  tvdb_mappings:
+  tmdb_mappings:
