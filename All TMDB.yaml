@@ -1,0 +1,2289 @@
+18:
+  tmdb_mappings:
+    s3: e1-e24
+19:
+  tmdb_mappings:
+    s1: e1-e74
+20:
+  tmdb_mappings:
+    s1: e1-e52
+    s2: e1-e52
+    s3: e1-e54
+    s4: e1-e62
+21:
+  tmdb_mappings:
+    s1: e1-e61
+    s2: e1-e16
+    s3: e1-e14
+    s4: e1-e39
+    s5: e1-e13
+    s6: e1-e52
+    s7: e1-e33
+    s8: e1-e35
+    s9: e1-e73
+    s10: e1-e45
+    s11: e1-e26
+    s12: e1-e14
+    s13: e1-e101
+    s14: e1-e58
+    s15: e1-e62
+    s16: e1-e50
+    s17: e1-e56
+    s18: e1-e55
+    s19: e1-e74
+    s20: e1-e14
+    s21: e1-e197
+    s22: e1-
+30:
+  tmdb_mappings:
+    s1: e1-e26
+31:
+  tmdb_mappings:
+32:
+  tmdb_mappings:
+33:
+  tmdb_mappings:
+    s1: e1-e25
+57:
+  tmdb_mappings:
+    s1: e1-e26
+66:
+  tmdb_mappings:
+    s1: e1-e26
+145:
+  tmdb_mappings:
+    s1: e1-e26
+185:
+  tmdb_mappings:
+    s1: e1-e26
+186:
+  tmdb_mappings:
+    s2: e1-e13
+187:
+  tmdb_mappings:
+205:
+  tmdb_mappings:
+227:
+  tmdb_mappings:
+    s1: e1-e6
+235:
+  tmdb_mappings:
+    s1: e1-
+249:
+  tmdb_mappings:
+    s1: e1-e167
+268:
+  tmdb_mappings:
+    s1: e1-e6
+269:
+  tmdb_mappings:
+    s1: e1-e366
+290:
+  tmdb_mappings:
+    s1: e1-e13
+323:
+  tmdb_mappings:
+    s1: e1-e13
+339:
+  tmdb_mappings:
+    s1: e1-e13
+387:
+  tmdb_mappings:
+    s1: e1-e13
+396:
+  tmdb_mappings:
+    s2: e1-e13
+397:
+  tmdb_mappings:
+    s3: e1-e10
+398:
+  tmdb_mappings:
+    s0: e2-e3
+399:
+  tmdb_mappings:
+442:
+  tmdb_mappings:
+449:
+  tmdb_mappings:
+450:
+  tmdb_mappings:
+451:
+  tmdb_mappings:
+452:
+  tmdb_mappings:
+459:
+  tmdb_mappings:
+460:
+  tmdb_mappings:
+461:
+  tmdb_mappings:
+462:
+  tmdb_mappings:
+463:
+  tmdb_mappings:
+464:
+  tmdb_mappings:
+465:
+  tmdb_mappings:
+466:
+  tmdb_mappings:
+527:
+  tmdb_mappings:
+    s1: e1-e82
+    s2: e1-e36
+    s3: e1-e41
+    s4: e1-e52
+    s5: e1-e65
+528:
+  tmdb_mappings:
+594:
+  tmdb_mappings:
+659:
+  tmdb_mappings:
+761:
+  tmdb_mappings:
+    s0: e1
+779:
+  tmdb_mappings:
+780:
+  tmdb_mappings:
+781:
+  tmdb_mappings:
+790:
+  tmdb_mappings:
+    s1: e1-e23
+834:
+  tmdb_mappings:
+    s0: e3
+853:
+  tmdb_mappings:
+    s1: e1-e26
+877:
+  tmdb_mappings:
+    s1: e1-e47
+918:
+  tmdb_mappings:
+    s1: e1-e49
+    s2: e1-e50
+    s3: e1-e51
+    s4: e1-e51
+936:
+  tmdb_mappings:
+1074:
+  tmdb_mappings:
+    s0: e2
+1094:
+  tmdb_mappings:
+    s0: e2
+1117:
+  tmdb_mappings:
+1118:
+  tmdb_mappings:
+1119:
+  tmdb_mappings:
+1120:
+  tmdb_mappings:
+1121:
+  tmdb_mappings:
+1122:
+  tmdb_mappings:
+1124:
+  tmdb_mappings:
+    s0: e1
+1210:
+  tmdb_mappings:
+    s1: e1-e24
+1237:
+  tmdb_mappings:
+    s0: e3
+1238:
+  tmdb_mappings:
+    s0: e4
+1292:
+  tmdb_mappings:
+    s1: e1-e5
+1363:
+  tmdb_mappings:
+1364:
+  tmdb_mappings:
+1365:
+  tmdb_mappings:
+1366:
+  tmdb_mappings:
+1367:
+  tmdb_mappings:
+1368:
+  tmdb_mappings:
+    s0: e7
+1369:
+  tmdb_mappings:
+    s0: e1
+1381:
+  tmdb_mappings:
+1413:
+  tmdb_mappings:
+1414:
+  tmdb_mappings:
+1415:
+  tmdb_mappings:
+1416:
+  tmdb_mappings:
+1417:
+  tmdb_mappings:
+1418:
+  tmdb_mappings:
+1419:
+  tmdb_mappings:
+1420:
+  tmdb_mappings:
+1421:
+  tmdb_mappings:
+1422:
+  tmdb_mappings:
+1423:
+  tmdb_mappings:
+1424:
+  tmdb_mappings:
+1427:
+  tmdb_mappings:
+1429:
+  tmdb_mappings:
+1430:
+  tmdb_mappings:
+1432:
+  tmdb_mappings:
+1433:
+  tmdb_mappings:
+1434:
+  tmdb_mappings:
+1435:
+  tmdb_mappings:
+1436:
+  tmdb_mappings:
+1437:
+  tmdb_mappings:
+1438:
+  tmdb_mappings:
+1439:
+  tmdb_mappings:
+1505:
+  tmdb_mappings:
+1506:
+  tmdb_mappings:
+1525:
+  tmdb_mappings:
+    s0: e14
+1526:
+  tmdb_mappings:
+1527:
+  tmdb_mappings:
+    s0: e18
+1564:
+  tmdb_mappings:
+    s6: e1-e40
+    s7: e1-e52
+    s8: e1-e53
+    s9: e1-e46
+1565:
+  tmdb_mappings:
+    s10: e1-e52
+    s11: e1-e52
+    s12: e1-e53
+    s13: e1-e34
+1593:
+  tmdb_mappings:
+1686:
+  tmdb_mappings:
+1691:
+  tmdb_mappings:
+    s1: e1-e24
+1709:
+  tmdb_mappings:
+1735:
+  tmdb_mappings:
+    s1: e1-e32
+    s2: e1-e21
+    s3: e1-e18
+    s4: e1-e17
+    s5: e1-e24
+    s6: e1-e31
+    s7: e1-e8
+    s8: e1-e24
+    s9: e1-e21
+    s10: e1-e25
+    s11: e1-e21
+    s12: e1-e33
+    s13: e1-e20
+    s14: e1-e25
+    s15: e1-e28
+    s16: e1-e13
+    s17: e1-e11
+    s18: e1-e21
+    s19: e1-e20
+    s20: e1-e87
+1818:
+  tmdb_mappings:
+    s1: e1-e26
+1980:
+  tmdb_mappings:
+    s1: e1-e4
+2020:
+  tmdb_mappings:
+    s0: e5
+2034:
+  tmdb_mappings:
+    s1: e1-e24
+2107:
+  tmdb_mappings:
+2144:
+  tmdb_mappings:
+2171:
+  tmdb_mappings:
+2201:
+  tmdb_mappings:
+2248:
+  tmdb_mappings:
+2385:
+  tmdb_mappings:
+2386:
+  tmdb_mappings:
+2472:
+  tmdb_mappings:
+2490:
+  tmdb_mappings:
+2512:
+  tmdb_mappings:
+    s0: e2
+2513:
+  tmdb_mappings:
+    s0: e3
+2514:
+  tmdb_mappings:
+    s0: e4
+2515:
+  tmdb_mappings:
+    s0: e6
+2597:
+  tmdb_mappings:
+    s0: e9
+2759:
+  tmdb_mappings:
+2842:
+  tmdb_mappings:
+    s0: e20
+2847:
+  tmdb_mappings:
+2889:
+  tmdb_mappings:
+2951:
+  tmdb_mappings:
+    s0: e1
+3002:
+  tmdb_mappings:
+    s1: e1-e26
+3019:
+  tmdb_mappings:
+3784:
+  tmdb_mappings:
+3785:
+  tmdb_mappings:
+3786:
+  tmdb_mappings:
+3848:
+  tmdb_mappings:
+3931:
+  tmdb_mappings:
+    s0: e6
+4026:
+  tmdb_mappings:
+4134:
+  tmdb_mappings:
+    s0: e1
+4155:
+  tmdb_mappings:
+4320:
+  tmdb_mappings:
+4437:
+  tmdb_mappings:
+4447:
+  tmdb_mappings:
+4792:
+  tmdb_mappings:
+    s0: e5
+4793:
+  tmdb_mappings:
+4794:
+  tmdb_mappings:
+4795:
+  tmdb_mappings:
+4835:
+  tmdb_mappings:
+4851:
+  tmdb_mappings:
+4874:
+  tmdb_mappings:
+    s0: e3,e6
+4886:
+  tmdb_mappings:
+    s0: e1
+4910:
+  tmdb_mappings:
+    s0: e19
+4970:
+  tmdb_mappings:
+5019:
+  tmdb_mappings:
+5081:
+  tmdb_mappings:
+    s0: e2-e4
+    s1: e1-e12
+5225:
+  tmdb_mappings:
+5228:
+  tmdb_mappings:
+    s0: e7
+5252:
+  tmdb_mappings:
+5256:
+  tmdb_mappings:
+    s0: e22
+5348:
+  tmdb_mappings:
+5460:
+  tmdb_mappings:
+5526:
+  tmdb_mappings:
+5529:
+  tmdb_mappings:
+5844:
+  tmdb_mappings:
+5845:
+  tmdb_mappings:
+    s0: e16
+6033:
+  tmdb_mappings:
+    s1: e1-e26
+    s2: e1-e26
+    s3: e1-e25
+    s4: e1-e20
+6114:
+  tmdb_mappings:
+    s1: e1-e26
+6115:
+  tmdb_mappings:
+6178:
+  tmdb_mappings:
+6198:
+  tmdb_mappings:
+    s0: e13
+6211:
+  tmdb_mappings:
+    s1: e1-e11
+6231:
+  tmdb_mappings:
+6275:
+  tmdb_mappings:
+    s0: e24
+6325:
+  tmdb_mappings:
+6385:
+  tmdb_mappings:
+    s0: e7
+6438:
+  tmdb_mappings:
+    s0: e17
+6467:
+  tmdb_mappings:
+6547:
+  tmdb_mappings:
+    s1: e1-e13
+6555:
+  tmdb_mappings:
+    s0: e25
+6594:
+  tmdb_mappings:
+    s1: e1-e12
+6675:
+  tmdb_mappings:
+6811:
+  tmdb_mappings:
+    s2: e1-e26
+6877:
+  tmdb_mappings:
+    s0: e15
+6945:
+  tmdb_mappings:
+    s0: e2
+7367:
+  tmdb_mappings:
+7472:
+  tmdb_mappings:
+7550:
+  tmdb_mappings:
+7647:
+  tmdb_mappings:
+    s1: e1-e13
+7674:
+  tmdb_mappings:
+    s1: e1-e25
+7695:
+  tmdb_mappings:
+7817:
+  tmdb_mappings:
+    s1: e1-e12
+8097:
+  tmdb_mappings:
+8246:
+  tmdb_mappings:
+8247:
+  tmdb_mappings:
+8331:
+  tmdb_mappings:
+8425:
+  tmdb_mappings:
+    s1: e1-e24
+8438:
+  tmdb_mappings:
+    s0: e26
+8609:
+  tmdb_mappings:
+8630:
+  tmdb_mappings:
+    s1: e1-e12
+8676:
+  tmdb_mappings:
+    s1: e1-e25
+8709:
+  tmdb_mappings:
+    s0: e23
+8740:
+  tmdb_mappings:
+8795:
+  tmdb_mappings:
+    s1: e1-e18,e19-e21|3,e22-e28
+9062:
+  tmdb_mappings:
+    s0: e2,e5
+9074:
+  tmdb_mappings:
+    s2: e1-e13
+9107:
+  tmdb_mappings:
+    s14: e1-e48
+    s15: e1-e36
+9117:
+  tmdb_mappings:
+    s0: e1-e6
+9260:
+  tmdb_mappings:
+9735:
+  tmdb_mappings:
+9756:
+  tmdb_mappings:
+    s1: e1-e12
+9785:
+  tmdb_mappings:
+9786:
+  tmdb_mappings:
+9917:
+  tmdb_mappings:
+9925:
+  tmdb_mappings:
+    s0: e7
+9963:
+  tmdb_mappings:
+9969:
+  tmdb_mappings:
+    s5: e1-e51
+9989:
+  tmdb_mappings:
+    s1: e1-e11
+9999:
+  tmdb_mappings:
+10030:
+  tmdb_mappings:
+    s2: e1-e25
+10067:
+  tmdb_mappings:
+    s0: e3
+10075:
+  tmdb_mappings:
+10087:
+  tmdb_mappings:
+    s1: e1-e13
+10110:
+  tmdb_mappings:
+    s1: e1-e13
+10161:
+  tmdb_mappings:
+    s1: e1-e11
+10271:
+  tmdb_mappings:
+    s2: e1-e26
+10302:
+  tmdb_mappings:
+    s0: e28-e29
+10531:
+  tmdb_mappings:
+10589:
+  tmdb_mappings:
+10604:
+  tmdb_mappings:
+    s0: e1
+10643:
+  tmdb_mappings:
+    s0: e3
+10659:
+  tmdb_mappings:
+10686:
+  tmdb_mappings:
+10703:
+  tmdb_mappings:
+    s0: e23
+10721:
+  tmdb_mappings:
+    s1: e1-e24
+10739:
+  tmdb_mappings:
+    s0: e1
+10740:
+  tmdb_mappings:
+10766:
+  tmdb_mappings:
+10916:
+  tmdb_mappings:
+    s0: e6
+10917:
+  tmdb_mappings:
+    s0: e12
+11009:
+  tmdb_mappings:
+11019:
+  tmdb_mappings:
+11069:
+  tmdb_mappings:
+    s0: e27
+11111:
+  tmdb_mappings:
+    s1: e1-e12
+11235:
+  tmdb_mappings:
+    s2: e1-e13
+11359:
+  tmdb_mappings:
+    s0: e1
+11597:
+  tmdb_mappings:
+    s2: e1-e11
+11701:
+  tmdb_mappings:
+    s0: e1
+11741:
+  tmdb_mappings:
+    s2: e1-e12
+11759:
+  tmdb_mappings:
+    s1: e1-e24
+11777:
+  tmdb_mappings:
+11853:
+  tmdb_mappings:
+    s0: e30
+11977:
+  tmdb_mappings:
+11979:
+  tmdb_mappings:
+11981:
+  tmdb_mappings:
+12001:
+  tmdb_mappings:
+12117:
+  tmdb_mappings:
+12293:
+  tmdb_mappings:
+    s1: e1-e13
+12365:
+  tmdb_mappings:
+    s3: e1-e25
+12531:
+  tmdb_mappings:
+    s1: e1-e12
+12669:
+  tmdb_mappings:
+    s0: e8-e13
+12671:
+  tmdb_mappings:
+12725:
+  tmdb_mappings:
+    s0: e4
+12859:
+  tmdb_mappings:
+13125:
+  tmdb_mappings:
+    s1: e1-e25
+13161:
+  tmdb_mappings:
+    s1: e1-e12
+13247:
+  tmdb_mappings:
+13249:
+  tmdb_mappings:
+13263:
+  tmdb_mappings:
+    s0: e3-e8
+13601:
+  tmdb_mappings:
+    s1: e1-e22
+13667:
+  tmdb_mappings:
+13709:
+  tmdb_mappings:
+13759:
+  tmdb_mappings:
+    s1: e1-e24
+13799:
+  tmdb_mappings:
+13837:
+  tmdb_mappings:
+13839:
+  tmdb_mappings:
+    s0: e27
+13859:
+  tmdb_mappings:
+    s0: e1-e2,e4-e7,e9-e10
+13939:
+  tmdb_mappings:
+    s0: e3,e8
+14075:
+  tmdb_mappings:
+    s1: e1-e24
+14093:
+  tmdb_mappings:
+    s15: e37-e49
+    s16: e1-e11
+14345:
+  tmdb_mappings:
+    s1: e1-e12
+14663:
+  tmdb_mappings:
+    s0: e1
+14735:
+  tmdb_mappings:
+14749:
+  tmdb_mappings:
+    s1: e1-e13
+14833:
+  tmdb_mappings:
+    s1: e1-e12
+14935:
+  tmdb_mappings:
+    s0: e31
+15039:
+  tmdb_mappings:
+15059:
+  tmdb_mappings:
+    s4: e1-e14
+15323:
+  tmdb_mappings:
+    s0: e7
+15335:
+  tmdb_mappings:
+15417:
+  tmdb_mappings:
+    s6: e1-e13
+15689:
+  tmdb_mappings:
+    s0: e6-e9
+15729:
+  tmdb_mappings:
+    s0: e2-e7
+15783:
+  tmdb_mappings:
+15951:
+  tmdb_mappings:
+    s0: e14-e15
+16067:
+  tmdb_mappings:
+    s1: e1-e26
+16239:
+  tmdb_mappings:
+16468:
+  tmdb_mappings:
+    s0: e8
+16498:
+  tmdb_mappings:
+    s1: e1-e25
+16678:
+  tmdb_mappings:
+16680:
+  tmdb_mappings:
+16870:
+  tmdb_mappings:
+16918:
+  tmdb_mappings:
+    s1: e1-e11
+17074:
+  tmdb_mappings:
+    s0: e10-e12
+    s3: e1-e23
+17115:
+  tmdb_mappings:
+    s16: e12-e25
+17873:
+  tmdb_mappings:
+    s16: e26-e45
+17895:
+  tmdb_mappings:
+    s1: e1-e24
+18397:
+  tmdb_mappings:
+    s0: e7,e13-e14
+18429:
+  tmdb_mappings:
+19099:
+  tmdb_mappings:
+    s0: e33
+19123:
+  tmdb_mappings:
+19165:
+  tmdb_mappings:
+19291:
+  tmdb_mappings:
+    s17: e1-e48
+    s18: e1-e45
+19363:
+  tmdb_mappings:
+    s2: e1-e11
+19369:
+  tmdb_mappings:
+    s1: e1-e12
+19391:
+  tmdb_mappings:
+    s0: e2-e10
+19511:
+  tmdb_mappings:
+    s0: e3
+19603:
+  tmdb_mappings:
+    s0: e1
+    s1: e1-e12
+19613:
+  tmdb_mappings:
+    s5: e1-e4
+19759:
+  tmdb_mappings:
+20047:
+  tmdb_mappings:
+    s1: e1-e12
+20141:
+  tmdb_mappings:
+20365:
+  tmdb_mappings:
+    s0: e2
+20513:
+  tmdb_mappings:
+    s2: e1-e11
+20514:
+  tmdb_mappings:
+20541:
+  tmdb_mappings:
+    s1: e1-e12
+20546:
+  tmdb_mappings:
+20570:
+  tmdb_mappings:
+    s0: e34,e37
+20593:
+  tmdb_mappings:
+    s0: e13-e17
+20599:
+  tmdb_mappings:
+    s1: e1-e12
+20602:
+  tmdb_mappings:
+    s1: e1-e13
+20607:
+  tmdb_mappings:
+    s1: e1-e11
+20613:
+  tmdb_mappings:
+    s1: e1-e24
+20623:
+  tmdb_mappings:
+    s1: e1-e24
+20627:
+  tmdb_mappings:
+    s1: e1-e12
+20635:
+  tmdb_mappings:
+    s0: e2-e9
+    s5: e1-e35
+    s6: e1-e26
+20644:
+  tmdb_mappings:
+20646:
+  tmdb_mappings:
+    s1: e1-e12
+20661:
+  tmdb_mappings:
+    s1: e1-e11
+20683:
+  tmdb_mappings:
+    s0: e38,e41-e42,e50
+20691:
+  tmdb_mappings:
+20692:
+  tmdb_mappings:
+20704:
+  tmdb_mappings:
+    s1: e1-e12
+20729:
+  tmdb_mappings:
+    s1: e1-e73
+20735:
+  tmdb_mappings:
+    s1: e1-e13
+20755:
+  tmdb_mappings:
+    s1: e1-e22
+20760:
+  tmdb_mappings:
+20773:
+  tmdb_mappings:
+    s1: e1-e12
+20775:
+  tmdb_mappings:
+    s0: e1-e24
+20785:
+  tmdb_mappings:
+    s1: e1-e12
+20792:
+  tmdb_mappings:
+    s2: e1-e13
+20811:
+  tmdb_mappings:
+    s0: e15-e16
+20835:
+  tmdb_mappings:
+20842:
+  tmdb_mappings:
+20859:
+  tmdb_mappings:
+    s0: e28
+20878:
+  tmdb_mappings:
+20882:
+  tmdb_mappings:
+    s0: e6
+20906:
+  tmdb_mappings:
+    s0: e1-e2
+    s4: e1-e24
+20914:
+  tmdb_mappings:
+20918:
+  tmdb_mappings:
+    s0: e18-e21
+20946:
+  tmdb_mappings:
+    s1: e1-e24
+20948:
+  tmdb_mappings:
+    s0: e39
+20958:
+  tmdb_mappings:
+    s2: e1-e12
+20978:
+  tmdb_mappings:
+20990:
+  tmdb_mappings:
+20996:
+  tmdb_mappings:
+    s7: e1-e51
+21000:
+  tmdb_mappings:
+    s2: e1-e13
+21053:
+  tmdb_mappings:
+    s0: e1-e7
+21077:
+  tmdb_mappings:
+    s0: e8
+21092:
+  tmdb_mappings:
+    s1: e1-e12
+21170:
+  tmdb_mappings:
+    s2: e1-e25
+21188:
+  tmdb_mappings:
+    s1: e1-e12
+21212:
+  tmdb_mappings:
+21220:
+  tmdb_mappings:
+21230:
+  tmdb_mappings:
+21262:
+  tmdb_mappings:
+    s4: e1-e12
+21266:
+  tmdb_mappings:
+21268:
+  tmdb_mappings:
+    s1: e1-e25
+21270:
+  tmdb_mappings:
+21271:
+  tmdb_mappings:
+21281:
+  tmdb_mappings:
+    s1: e1-e12
+21289:
+  tmdb_mappings:
+21290:
+  tmdb_mappings:
+    s1: e1-e12
+21303:
+  tmdb_mappings:
+    s0: e1
+21304:
+  tmdb_mappings:
+    s0: e49
+21311:
+  tmdb_mappings:
+    s1: e1-e12
+21318:
+  tmdb_mappings:
+    s0: e2
+21335:
+  tmdb_mappings:
+21341:
+  tmdb_mappings:
+    s1: e1-e13
+21355:
+  tmdb_mappings:
+    s1: e1-e25
+21356:
+  tmdb_mappings:
+    s19: e1-e47
+21362:
+  tmdb_mappings:
+    s1: e1-e12
+21365:
+  tmdb_mappings:
+    s1: e1-e12
+21399:
+  tmdb_mappings:
+21400:
+  tmdb_mappings:
+21404:
+  tmdb_mappings:
+21410:
+  tmdb_mappings:
+    s1: e1-e13
+21421:
+  tmdb_mappings:
+    s1: e1-e12
+21457:
+  tmdb_mappings:
+    s1: e1-e12
+21470:
+  tmdb_mappings:
+21485:
+  tmdb_mappings:
+    s0: e13
+21487:
+  tmdb_mappings:
+    s0: e1-e3
+21499:
+  tmdb_mappings:
+    s1: e1-e50
+21501:
+  tmdb_mappings:
+    s0: e7
+21505:
+  tmdb_mappings:
+21517:
+  tmdb_mappings:
+    s1: e1-e12
+21520:
+  tmdb_mappings:
+    s0: e22-e33
+21560:
+  tmdb_mappings:
+    s1: e1-e12
+21579:
+  tmdb_mappings:
+21588:
+  tmdb_mappings:
+    s0: e8-e9
+21646:
+  tmdb_mappings:
+21651:
+  tmdb_mappings:
+21659:
+  tmdb_mappings:
+    s1: e1-e12
+21665:
+  tmdb_mappings:
+    s1: e1-e12
+21678:
+  tmdb_mappings:
+    s0: e2-e9
+21679:
+  tmdb_mappings:
+    s1: e13-e24
+21681:
+  tmdb_mappings:
+21686:
+  tmdb_mappings:
+    s1: e1-e12
+21700:
+  tmdb_mappings:
+    s1: e1-e12
+21701:
+  tmdb_mappings:
+    s1: e1-e12
+21711:
+  tmdb_mappings:
+    s1: e1-e12
+21714:
+  tmdb_mappings:
+    s1: e1-e13
+21745:
+  tmdb_mappings:
+    s0: e35-e41
+21746:
+  tmdb_mappings:
+    s2: e1-e6
+21748:
+  tmdb_mappings:
+    s3: e1-e6
+21749:
+  tmdb_mappings:
+    s1: e26-e50
+21780:
+  tmdb_mappings:
+    s0: e1-e11
+21791:
+  tmdb_mappings:
+    s0: e1
+21799:
+  tmdb_mappings:
+    s2: e1-e13
+21821:
+  tmdb_mappings:
+21822:
+  tmdb_mappings:
+21831:
+  tmdb_mappings:
+    s0: e14
+21851:
+  tmdb_mappings:
+    s1: e1-e12
+21860:
+  tmdb_mappings:
+    s1: e1-e12
+21880:
+  tmdb_mappings:
+21887:
+  tmdb_mappings:
+    s1: e1-e12
+21891:
+  tmdb_mappings:
+    s0: e12-e25
+97617:
+  tmdb_mappings:
+    s1: e1-e12
+97619:
+  tmdb_mappings:
+97634:
+  tmdb_mappings:
+    s20: e1-e43
+    s21: e1-e49
+    s22: e1-e54
+97643:
+  tmdb_mappings:
+    s2: e1-e12
+97663:
+  tmdb_mappings:
+    s1: e1-e13
+97682:
+  tmdb_mappings:
+    s1: e1-e12
+97766:
+  tmdb_mappings:
+    s1: e1-e12
+97768:
+  tmdb_mappings:
+    s1: e1-e24
+97832:
+  tmdb_mappings:
+    s1: e1-e12
+97889:
+  tmdb_mappings:
+    s8: e1-e12
+97907:
+  tmdb_mappings:
+    s1: e1-e12
+97922:
+  tmdb_mappings:
+    s1: e1-e11
+97980:
+  tmdb_mappings:
+    s1: e1-e22
+97994:
+  tmdb_mappings:
+    s1: e1-e12
+98005:
+  tmdb_mappings:
+    s1: e1-e24
+98222:
+  tmdb_mappings:
+98251:
+  tmdb_mappings:
+    s1: e1-e12
+98291:
+  tmdb_mappings:
+    s1: e1-e12
+98298:
+  tmdb_mappings:
+98384:
+  tmdb_mappings:
+98385:
+  tmdb_mappings:
+    s1: e1-e12
+98460:
+  tmdb_mappings:
+    s1: e1-e10
+98491:
+  tmdb_mappings:
+    s1: e1-e12
+98596:
+  tmdb_mappings:
+    s1: e1-e12
+98604:
+  tmdb_mappings:
+98659:
+  tmdb_mappings:
+    s1: e1-e12
+98707:
+  tmdb_mappings:
+    s1: e1-e12
+98778:
+  tmdb_mappings:
+    s0: e2
+98820:
+  tmdb_mappings:
+    s1: e1-e12
+98856:
+  tmdb_mappings:
+    s0: e1
+99088:
+  tmdb_mappings:
+    s1: e1-e8
+99147:
+  tmdb_mappings:
+    s3: e1-e12
+99263:
+  tmdb_mappings:
+    s1: e1-e25
+99302:
+  tmdb_mappings:
+99423:
+  tmdb_mappings:
+    s1: e1-e24
+99426:
+  tmdb_mappings:
+    s1: e1-e13
+99629:
+  tmdb_mappings:
+    s1: e1-e12
+99634:
+  tmdb_mappings:
+    s0: e17-e19
+99698:
+  tmdb_mappings:
+    s1: e1-e12
+99714:
+  tmdb_mappings:
+    s9: e1-e13
+99734:
+  tmdb_mappings:
+    s2: e1-e12
+100010:
+  tmdb_mappings:
+    s1: e1-e12
+100049:
+  tmdb_mappings:
+100077:
+  tmdb_mappings:
+    s1: e1-e12
+100112:
+  tmdb_mappings:
+    s1: e1-e12
+100179:
+  tmdb_mappings:
+    s1: e1-e13
+100388:
+  tmdb_mappings:
+    s1: e1-e24
+100465:
+  tmdb_mappings:
+100526:
+  tmdb_mappings:
+    s1: e1-e12
+100653:
+  tmdb_mappings:
+100668:
+  tmdb_mappings:
+    s1: e1-e13
+100744:
+  tmdb_mappings:
+100784:
+  tmdb_mappings:
+    s10: e1-e12
+100815:
+  tmdb_mappings:
+    s0: e42-e47
+100922:
+  tmdb_mappings:
+    s1: e1-e12
+101001:
+  tmdb_mappings:
+    s1: e1-e12
+101102:
+  tmdb_mappings:
+101168:
+  tmdb_mappings:
+    s1: e1-e24
+101227:
+  tmdb_mappings:
+    s1: e1-e12
+101283:
+  tmdb_mappings:
+    s1: e1-e18
+101310:
+  tmdb_mappings:
+    s1: e1-e12
+101316:
+  tmdb_mappings:
+    s1: e1-e13
+101347:
+  tmdb_mappings:
+    s1: e1-e24
+101351:
+  tmdb_mappings:
+    s1: e1-e12
+101361:
+  tmdb_mappings:
+    s1: e1-e12
+101386:
+  tmdb_mappings:
+    s1: e1-e12
+101497:
+  tmdb_mappings:
+101573:
+  tmdb_mappings:
+    s1: e1-e13
+101759:
+  tmdb_mappings:
+    s1: e1-e12
+101903:
+  tmdb_mappings:
+    s1: e1-e23
+101918:
+  tmdb_mappings:
+101925:
+  tmdb_mappings:
+    s11: e1-e14
+101972:
+  tmdb_mappings:
+    s1: e1-e15
+102498:
+  tmdb_mappings:
+    s2: e1-e6
+102609:
+  tmdb_mappings:
+    s0: e3
+102649:
+  tmdb_mappings:
+102882:
+  tmdb_mappings:
+    s2: e1-e12
+102946:
+  tmdb_mappings:
+    s0: e1-e6
+103139:
+  tmdb_mappings:
+    s1: e1-e12
+103223:
+  tmdb_mappings:
+    s1: e25-e36
+103632:
+  tmdb_mappings:
+    s1: e1-e24
+103871:
+  tmdb_mappings:
+    s1: e1-e12
+104052:
+  tmdb_mappings:
+    s1: e1-e12
+104170:
+  tmdb_mappings:
+    s0: e3
+104243:
+  tmdb_mappings:
+    s0: e1-e4
+104252:
+  tmdb_mappings:
+    s1: e1-e12
+104257:
+  tmdb_mappings:
+104368:
+  tmdb_mappings:
+    s0: e1-e2
+104382:
+  tmdb_mappings:
+104396:
+  tmdb_mappings:
+    s0: e3-e9
+104458:
+  tmdb_mappings:
+    s2: e1-e8
+104578:
+  tmdb_mappings:
+    s3: e13-e22
+104722:
+  tmdb_mappings:
+    s1: e1-e12
+104990:
+  tmdb_mappings:
+105074:
+  tmdb_mappings:
+    s1: e1-e12
+105143:
+  tmdb_mappings:
+105156:
+  tmdb_mappings:
+    s1: e1-e12
+105190:
+  tmdb_mappings:
+    s1: e1-e11
+105655:
+  tmdb_mappings:
+105914:
+  tmdb_mappings:
+    s1: e1-e12
+105932:
+  tmdb_mappings:
+    s1: e1-e12
+105989:
+  tmdb_mappings:
+    s1: e1-e12
+106206:
+  tmdb_mappings:
+106287:
+  tmdb_mappings:
+106319:
+  tmdb_mappings:
+    s1: e1-e12
+106479:
+  tmdb_mappings:
+    s1: e1-e12
+106499:
+  tmdb_mappings:
+    s19: e48-e49
+107067:
+  tmdb_mappings:
+    s1: e1-e12
+107201:
+  tmdb_mappings:
+    s1: e1-e12
+107313:
+  tmdb_mappings:
+107342:
+  tmdb_mappings:
+    s0: e1
+107663:
+  tmdb_mappings:
+    s1: e1-e12
+107693:
+  tmdb_mappings:
+    s1: e1-e23
+107956:
+  tmdb_mappings:
+    s1: e1-e12
+108241:
+  tmdb_mappings:
+    s1: e1-e13
+108268:
+  tmdb_mappings:
+    s1: e1-e14
+108307:
+  tmdb_mappings:
+    s3: e1-e8
+108388:
+  tmdb_mappings:
+    s1: e1-e12
+108617:
+  tmdb_mappings:
+    s1: e1-e12
+108632:
+  tmdb_mappings:
+    s1: e26-e38
+108725:
+  tmdb_mappings:
+    s2: e1-e11
+108942:
+  tmdb_mappings:
+    s0: e20-e23
+109287:
+  tmdb_mappings:
+    s1: e1-e12
+109298:
+  tmdb_mappings:
+    s1: e1-e12
+110277:
+  tmdb_mappings:
+    s4: e1-e16
+110349:
+  tmdb_mappings:
+    s1: e1-e23
+110350:
+  tmdb_mappings:
+    s1: e1-e13
+110353:
+  tmdb_mappings:
+    s1: e1-e12
+110354:
+  tmdb_mappings:
+    s1: e1-e12
+110413:
+  tmdb_mappings:
+110733:
+  tmdb_mappings:
+    s2: e1-e12
+111314:
+  tmdb_mappings:
+    s1: e1-e4
+111321:
+  tmdb_mappings:
+    s2: e1-e13
+111322:
+  tmdb_mappings:
+    s3: e1-e12
+111729:
+  tmdb_mappings:
+    s0: e15-e16
+112153:
+  tmdb_mappings:
+112323:
+  tmdb_mappings:
+    s2: e1-e12
+112608:
+  tmdb_mappings:
+    s1: e1-e12
+112609:
+  tmdb_mappings:
+    s1: e1-e12
+112649:
+  tmdb_mappings:
+    s1: e1-e12
+112658:
+  tmdb_mappings:
+112667:
+  tmdb_mappings:
+    s1: e1-e12
+112802:
+  tmdb_mappings:
+    s1: e1-e13
+113415:
+  tmdb_mappings:
+    s1: e1-e24
+113653:
+  tmdb_mappings:
+113693:
+  tmdb_mappings:
+    s1: e15-e26
+113811:
+  tmdb_mappings:
+    s0: e1-e2|2
+113917:
+  tmdb_mappings:
+114065:
+  tmdb_mappings:
+    s1: e1-e12
+114085:
+  tmdb_mappings:
+    s1: e1-e12
+114087:
+  tmdb_mappings:
+    s2: e1-e12
+114121:
+  tmdb_mappings:
+    s1: e1-e15
+114129:
+  tmdb_mappings:
+114232:
+  tmdb_mappings:
+    s1: e1-e13
+114564:
+  tmdb_mappings:
+114840:
+  tmdb_mappings:
+    s1: e1-e12
+114888:
+  tmdb_mappings:
+    s1: e1-e11
+115113:
+  tmdb_mappings:
+    s1: e1-e12
+115230:
+  tmdb_mappings:
+    s1: e1-e13
+115740:
+  tmdb_mappings:
+    s1: e1-e12
+116006:
+  tmdb_mappings:
+    s1: e1-e13
+116242:
+  tmdb_mappings:
+    s1: e1-e12
+116338:
+  tmdb_mappings:
+    s2: e1-e21
+116566:
+  tmdb_mappings:
+    s1: e1-e12
+116588:
+  tmdb_mappings:
+    s1: e1-e12
+116589:
+  tmdb_mappings:
+    s1: e1-e11
+116674:
+  tmdb_mappings:
+    s2: e1-e13
+116867:
+  tmdb_mappings:
+    s2: e1-e12
+118419:
+  tmdb_mappings:
+    s1: e1-e12
+119113:
+  tmdb_mappings:
+119661:
+  tmdb_mappings:
+    s1: e39-e50
+120120:
+  tmdb_mappings:
+    s1: e1-e24
+120257:
+  tmdb_mappings:
+    s0: e24-e26
+120377:
+  tmdb_mappings:
+    s1: e1-e10
+120608:
+  tmdb_mappings:
+    s1: e1-e12
+120646:
+  tmdb_mappings:
+    s1: e1-e12
+120697:
+  tmdb_mappings:
+    s1: e1-e12
+120700:
+  tmdb_mappings:
+    s0: e26-e38
+121176:
+  tmdb_mappings:
+    s1: e27-e36
+121467:
+  tmdb_mappings:
+    s3: e1-e12
+122052:
+  tmdb_mappings:
+    s1: e1-e12
+123802:
+  tmdb_mappings:
+    s1: e1-e12
+124080:
+  tmdb_mappings:
+    s1: e1-e13
+124395:
+  tmdb_mappings:
+    s2: e1-e13
+124675:
+  tmdb_mappings:
+    s1: e1-e12
+125038:
+  tmdb_mappings:
+    s1: e1-e13
+125124:
+  tmdb_mappings:
+    s2: e1-e12
+125206:
+  tmdb_mappings:
+    s1: e1-e12
+125428:
+  tmdb_mappings:
+    s1: e1-e12
+126047:
+  tmdb_mappings:
+    s1: e1-e12
+126192:
+  tmdb_mappings:
+    s1: e1-e12
+126213:
+  tmdb_mappings:
+    s1: e1-e13
+126357:
+  tmdb_mappings:
+    s2: e1-e12
+126529:
+  tmdb_mappings:
+    s1: e13-e24
+126791:
+  tmdb_mappings:
+    s1: e1-e12
+126819:
+  tmdb_mappings:
+127366:
+  tmdb_mappings:
+    s2: e1-e12
+127400:
+  tmdb_mappings:
+    s3: e1-e14
+127401:
+  tmdb_mappings:
+    s1: e1-e24
+127465:
+  tmdb_mappings:
+    s0: e1-e30
+127911:
+  tmdb_mappings:
+    s1: e1-e12
+128306:
+  tmdb_mappings:
+    s0: e39-e50
+128705:
+  tmdb_mappings:
+    s1: e1-e12
+128712:
+  tmdb_mappings:
+    s1: e1-e12
+128893:
+  tmdb_mappings:
+    s1: e1-e13
+129068:
+  tmdb_mappings:
+    s1: e1-e12
+129191:
+  tmdb_mappings:
+    s1: e1-e12
+129192:
+  tmdb_mappings:
+    s1: e1-e12
+129193:
+  tmdb_mappings:
+    s1: e1-e12
+129201:
+  tmdb_mappings:
+    s1: e1-e25
+129898:
+  tmdb_mappings:
+    s1: e1-e12
+130003:
+  tmdb_mappings:
+    s1: e1-e12
+130586:
+  tmdb_mappings:
+    s1: e1-e12
+130591:
+  tmdb_mappings:
+    s1: e1-e12
+131083:
+  tmdb_mappings:
+    s1: e1-e12
+131548:
+  tmdb_mappings:
+    s1: e1-e12
+131565:
+  tmdb_mappings:
+    s1: e1-e12
+131573:
+  tmdb_mappings:
+131586:
+  tmdb_mappings:
+    s1: e12-e23
+131681:
+  tmdb_mappings:
+    s4: e17-e28
+131770:
+  tmdb_mappings:
+132010:
+  tmdb_mappings:
+    s1: e1-e12
+132052:
+  tmdb_mappings:
+    s1: e1-e24
+132126:
+  tmdb_mappings:
+    s1: e1-e12
+132232:
+  tmdb_mappings:
+132456:
+  tmdb_mappings:
+    s1: e1-e20
+132467:
+  tmdb_mappings:
+    s0: e2-e25
+132473:
+  tmdb_mappings:
+    s1: e1-e12
+132474:
+  tmdb_mappings:
+    s1: e1-e12
+132634:
+  tmdb_mappings:
+    s0: e8
+132806:
+  tmdb_mappings:
+    s2: e1-e12
+133007:
+  tmdb_mappings:
+134623:
+  tmdb_mappings:
+    s0: e3
+    s6: e1-e24
+134732:
+  tmdb_mappings:
+    s1: e1-e24
+135102:
+  tmdb_mappings:
+    s2: e1-e12
+135806:
+  tmdb_mappings:
+    s1: e1-e13
+136707:
+  tmdb_mappings:
+    s1: e1-e12
+136934:
+  tmdb_mappings:
+    s1: e1-e12
+137281:
+  tmdb_mappings:
+    s1: e1-e12
+137667:
+  tmdb_mappings:
+    s1: e1-e13
+137908:
+  tmdb_mappings:
+    s1: e1-e13
+138882:
+  tmdb_mappings:
+    s1: e1-e12
+139092:
+  tmdb_mappings:
+    s3: e1-e21
+139093:
+  tmdb_mappings:
+    s2: e1-e12
+139179:
+  tmdb_mappings:
+    s0: e29
+139518:
+  tmdb_mappings:
+    s2: e1-e25
+139587:
+  tmdb_mappings:
+    s1: e1-e12
+139754:
+  tmdb_mappings:
+    s0: e33-e34
+139825:
+  tmdb_mappings:
+    s2: e1-e12
+140596:
+  tmdb_mappings:
+    s2: e1-e12
+140830:
+  tmdb_mappings:
+    s1: e1-e13
+141014:
+  tmdb_mappings:
+    s1: e1-e12
+141249:
+  tmdb_mappings:
+    s1: e37-e49
+141821:
+  tmdb_mappings:
+    s1: e1-e12
+141852:
+  tmdb_mappings:
+    s3: e1-e12
+141902:
+  tmdb_mappings:
+141911:
+  tmdb_mappings:
+    s1: e1-e12
+141949:
+  tmdb_mappings:
+    s1: e1-e12
+142074:
+  tmdb_mappings:
+    s1: e1-e12
+142219:
+  tmdb_mappings:
+142853:
+  tmdb_mappings:
+    s1: e25-e37
+143085:
+  tmdb_mappings:
+    s2: e1-e12
+143277:
+  tmdb_mappings:
+    s1: e1-e23
+143337:
+  tmdb_mappings:
+    s2: e1-e12
+143338:
+  tmdb_mappings:
+    s1: e1-e12
+143653:
+  tmdb_mappings:
+    s1: e1-e13
+143846:
+  tmdb_mappings:
+    s0: e28
+144553:
+  tmdb_mappings:
+    s1: e1-e13
+145064:
+  tmdb_mappings:
+    s1: e25-e47
+145260:
+  tmdb_mappings:
+    s1: e1-e12
+145405:
+  tmdb_mappings:
+145545:
+  tmdb_mappings:
+    s2: e1-e13
+145560:
+  tmdb_mappings:
+    s0: e17
+146066:
+  tmdb_mappings:
+    s3: e1-e13
+146206:
+  tmdb_mappings:
+    s2: e1-e12
+146210:
+  tmdb_mappings:
+    s1: e1-e12
+146472:
+  tmdb_mappings:
+    s4: e1-e3
+146473:
+  tmdb_mappings:
+    s5: e1-e3
+146493:
+  tmdb_mappings:
+    s1: e1-e24
+146625:
+  tmdb_mappings:
+    s1: e1-e13
+146850:
+  tmdb_mappings:
+    s1: e1-e12
+146921:
+  tmdb_mappings:
+    s0: e31-32|2
+146954:
+  tmdb_mappings:
+    s2: e1-e12
+146984:
+  tmdb_mappings:
+    s0: e36
+147571:
+  tmdb_mappings:
+    s2: e1-e12
+147642:
+  tmdb_mappings:
+    s1: e1-e12
+147864:
+  tmdb_mappings:
+    s1: e1-e12
+148116:
+  tmdb_mappings:
+    s1: e1-e12
+148179:
+  tmdb_mappings:
+148295:
+  tmdb_mappings:
+    s0: e1-e22
+148969:
+  tmdb_mappings:
+    s1: e1-e12
+150695:
+  tmdb_mappings:
+    s1: e1-e13
+151252:
+  tmdb_mappings:
+    s1: e1-e12
+151379:
+  tmdb_mappings:
+    s1: e1-e12
+151514:
+  tmdb_mappings:
+    s1: e1-e25
+151606:
+  tmdb_mappings:
+    s1: e14-e25
+151639:
+  tmdb_mappings:
+    s1: e1-e13
+151799:
+  tmdb_show_id: 246862
+  tmdb_mappings:
+    s1: e1,e2-e3|2,e4-e12|3,e13,e14-e15|2,e16-e21|3,e22-e23|2,e24-
+151806:
+  tmdb_mappings:
+    s1: e1-e13
+152137:
+  tmdb_mappings:
+    s1: e1-e12
+152677:
+  tmdb_mappings:
+    s2: e1-e1
+152681:
+  tmdb_mappings:
+    s1: e1-e12
+153332:
+  tmdb_mappings:
+    s1: e1-e12
+153406:
+  tmdb_mappings:
+    s2: e1-e26
+153629:
+  tmdb_mappings:
+    s1: e1-e12
+153687:
+  tmdb_mappings:
+153845:
+  tmdb_mappings:
+    s1: e1-e13
+153930:
+  tmdb_mappings:
+    s1: e1-e12
+154037:
+  tmdb_mappings:
+    s0: e1
+154391:
+  tmdb_mappings:
+    s1: e1-e12
+154459:
+  tmdb_mappings:
+    s1: e1-e12
+154473:
+  tmdb_mappings:
+    s3: e1-e16
+154692:
+  tmdb_mappings:
+    s2: e1-e12
+154924:
+  tmdb_mappings:
+154956:
+  tmdb_mappings:
+    s0: e7-e8
+154965:
+  tmdb_mappings:
+    s1: e1-e13
+155645:
+  tmdb_mappings:
+    s1: e24-e46
+155783:
+  tmdb_mappings:
+    s1: e1-e13
+155907:
+  tmdb_mappings:
+    s1: e1-e12
+155963:
+  tmdb_mappings:
+    s1: e1-e12
+156110:
+  tmdb_mappings:
+    s4: e1-e12
+156131:
+  tmdb_mappings:
+    s2: e1-e12
+156841:
+  tmdb_mappings:
+157397:
+  tmdb_mappings:
+    s1: e1-e12
+158869:
+  tmdb_mappings:
+    s0: e52
+158871:
+  tmdb_mappings:
+158997:
+  tmdb_mappings:
+159042:
+  tmdb_mappings:
+    s2: e1-e1
+159322:
+  tmdb_mappings:
+    s2: e14-e26
+159831:
+  tmdb_mappings:
+    s1: e1-e12
+160188:
+  tmdb_mappings:
+    s1: e1-e13
+160900:
+  tmdb_mappings:
+    s1: e1-e12
+162314:
+  tmdb_mappings:
+    s0: e37
+162780:
+  tmdb_mappings:
+    s1: e1-e13
+162804:
+  tmdb_mappings:
+    s1: e1-e12
+162896:
+  tmdb_mappings:
+    s1: e1-e12
+163076:
+  tmdb_mappings:
+    s1: e1-e12
+163132:
+  tmdb_mappings:
+    s1: e1-e13
+163134:
+  tmdb_mappings:
+    s1: e51-e66
+163263:
+  tmdb_mappings:
+    s1: e50-e60
+163329:
+  tmdb_mappings:
+    s1: e38-e50
+163623:
+  tmdb_mappings:
+    s1: e1-e12
+165253:
+  tmdb_mappings:
+166060:
+  tmdb_mappings:
+    s0: e30
+166613:
+  tmdb_mappings:
+    s2: e1-e1
+166794:
+  tmdb_mappings:
+    s1: e1-e12
+167336:
+  tmdb_mappings:
+    s1: e1-e13
+168374:
+  tmdb_mappings:
+    s1: e1-e12
+168500:
+  tmdb_mappings:
+    s2: e1-e12
+169000:
+  tmdb_mappings:
+169754:
+  tmdb_mappings:
+169755:
+  tmdb_mappings:
+    s2: e27-e40
+170130:
+  tmdb_mappings:
+    s1: e1-e12
+170695:
+  tmdb_mappings:
+    s1: e1-e12
+170935:
+  tmdb_mappings:
+    s2: e1-e4
+171099:
+  tmdb_mappings:
+171457:
+  tmdb_mappings:
+    s1: e1-e12
+173533:
+  tmdb_mappings:
+    s5: e1-e14
+173694:
+  tmdb_mappings:
+    s1: e1-e12
+173780:
+  tmdb_mappings:
+    s4: e1-e12
+174417:
+  tmdb_mappings:
+    s0: e1-e12
+174576:
+  tmdb_mappings:
+    s1: e1-e12
+175573:
+  tmdb_mappings:
+175977:
+  tmdb_mappings:
+    s1: e1-e12
+177689:
+  tmdb_mappings:
+    s1: e1-e12
+178025:
+  tmdb_mappings:
+    s1: e1-e24
+178436:
+  tmdb_mappings:
+179828:
+  tmdb_mappings:
+    s2: e1-e12
+179979:
+  tmdb_mappings:
+    s2: e1-e12
+180332:
+  tmdb_mappings:
+    s0: e48
+180367:
+  tmdb_mappings:
+    s1: e1-e25
+181444:
+  tmdb_mappings:
+    s1: e1-e13
+181641:
+  tmdb_mappings:
+    s2: e1-e1
+181970:
+  tmdb_mappings:
+182300:
+  tmdb_mappings:
+    s2: e1-e1
+182309:
+  tmdb_mappings:
+    s2: e1-e12
+182469:
+  tmdb_mappings:
+183161:
+  tmdb_mappings:
+    s1: e1-e12
+184369:
+  tmdb_mappings:
+185407:
+  tmdb_mappings:
+    s1: e1-e6
+185874:
+  tmdb_mappings:
+    s2: e41-
