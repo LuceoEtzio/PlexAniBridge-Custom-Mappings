@@ -1,27 +1,9 @@
-20923:
-  tmdb_mappings:
-    s1: e1-e24
-21518:
-  tmdb_mappings:
-    s2: e1-e13
 21691:
-  tmdb_mappings: 
+  tmdb_mappings:
     s0: e2-e3
 98702:
-  tmdb_mappings: 
+  tmdb_mappings:
     s0: e4-e5
-99255:
-  tmdb_mappings: 
-    s3: e1-e12
-100773:
-  tmdb_mappings: 
-    s3: e13-e24
 101924:
-  tmdb_mappings: 
+  tmdb_mappings:
     s0: e6
-109963:
-  tmdb_mappings:
-    s4: e1-e12
-114043:
-  tmdb_mappings:
-    s5: e1-e13

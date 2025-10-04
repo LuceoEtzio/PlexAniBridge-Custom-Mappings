@@ -1,29 +1,6 @@
-527:
-  tmdb_mappings:
-    s1: e1-e82
-    s2: e1-e36
-    s3: e1-e41
-    s4: e1-e52
-    s5: e1-e65
-528:
-  tmdb_mappings:
-1117:
-  tmdb_mappings:
-1118:
-  tmdb_mappings:
-1119:
-  tmdb_mappings:
-1120:
-  tmdb_mappings:
-1121:
-  tmdb_mappings:
-1122:
-  tmdb_mappings:
 1525:
   tmdb_mappings:
     s0: e14
-1526:
-  tmdb_mappings:
 1527:
   tmdb_mappings:
     s0: e18
@@ -39,26 +16,12 @@
     s11: e1-e52
     s12: e1-e53
     s13: e1-e34
-1709:
-  tmdb_mappings:
-2201:
-  tmdb_mappings:
 2842:
   tmdb_mappings:
     s0: e20
-2847:
-  tmdb_mappings:
-4026:
-  tmdb_mappings:
 4792:
   tmdb_mappings:
     s0: e5
-4793:
-  tmdb_mappings:
-4794:
-  tmdb_mappings:
-4795:
-  tmdb_mappings:
 4874:
   tmdb_mappings:
     s0: e3,e6
@@ -68,17 +31,9 @@
 5256:
   tmdb_mappings:
     s0: e22
-5526:
-  tmdb_mappings:
-5529:
-  tmdb_mappings:
-5844:
-  tmdb_mappings:
 5845:
   tmdb_mappings:
     s0: e16
-6178:
-  tmdb_mappings:
 6275:
   tmdb_mappings:
     s0: e24
@@ -91,10 +46,6 @@
 6877:
   tmdb_mappings:
     s0: e15
-7550:
-  tmdb_mappings:
-7695:
-  tmdb_mappings:
 8438:
   tmdb_mappings:
     s0: e26
@@ -105,33 +56,21 @@
   tmdb_mappings:
     s14: e1-e48
     s15: e1-e36
-9917:
-  tmdb_mappings:
 10302:
   tmdb_mappings:
     s0: e28-e29
-10740:
-  tmdb_mappings:
 10916:
   tmdb_mappings:
     s0: e6
 10917:
   tmdb_mappings:
     s0: e12
-11009:
-  tmdb_mappings:
-11019:
-  tmdb_mappings:
 11069:
   tmdb_mappings:
     s0: e27
 11853:
   tmdb_mappings:
     s0: e30
-12671:
-  tmdb_mappings:
-13799:
-  tmdb_mappings:
 14093:
   tmdb_mappings:
     s15: e37-e49
@@ -139,10 +78,6 @@
 14935:
   tmdb_mappings:
     s0: e31
-16678:
-  tmdb_mappings:
-16680:
-  tmdb_mappings:
 17115:
   tmdb_mappings:
     s16: e12-e25
@@ -159,48 +94,26 @@
 20570:
   tmdb_mappings:
     s0: e34,e37
-20644:
-  tmdb_mappings:
 20683:
   tmdb_mappings:
     s0: e38,e41-e42,e50
 20948:
   tmdb_mappings:
     s0: e39
-21266:
-  tmdb_mappings:
-21270:
-  tmdb_mappings:
-21271:
-  tmdb_mappings:
 21304:
   tmdb_mappings:
     s0: e49
 21356:
   tmdb_mappings:
     s19: e1-e47
-21651:
-  tmdb_mappings:
 97634:
   tmdb_mappings:
     s20: e1-e43
     s21: e1-e49
     s22: e1-e54
-98298:
-  tmdb_mappings:
-100744:
-  tmdb_mappings:
-106287:
-  tmdb_mappings:
 106499:
   tmdb_mappings:
     s19: e48-e49
-112153:
-  tmdb_mappings:
-114564:
-  tmdb_mappings:
 158869:
   tmdb_mappings:
     s0: e52
-158871:
-  tmdb_mappings:

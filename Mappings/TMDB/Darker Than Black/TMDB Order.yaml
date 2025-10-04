@@ -1,12 +1,6 @@
-2025:
-  tmdb_mappings:
-    s1: e1-e25
 4182:
-  tmdb_mappings: 
-    s0: e1
-6573:
   tmdb_mappings:
-    s2: e1-e12
+    s0: e1
 7338:
-  tmdb_mappings: 
+  tmdb_mappings:
     s0: e2-e5

@@ -1,6 +1,3 @@
-290:
-  tmdb_mappings:
-    s1: e1-e13
 396:
   tmdb_mappings:
     s2: e1-e13
@@ -10,10 +7,6 @@
 398:
   tmdb_mappings:
     s0: e2-e3
-399:
-  tmdb_mappings:
 1124:
   tmdb_mappings:
     s0: e1
-1381:
-  tmdb_mappings:
