@@ -3,7 +3,7 @@
 ---
 This repo contains alternative custom mappings for various series, for various scenarios, including:
  - Alternative TVDB episode orders where they differ substantively from the Aired Order (e.g. Monogatari DVD Order, Gundam Seed Remastered Airing, etc)
- - TMDB episode orders where they differ substantively from the TVDB Aired Order
+ - The primary TMDB episode order ~~where they differ substantively from the TVDB Aired Order~~
  - Alternative mapping to skip unneeded recaps while maintaining the correct watch count (e.g. Chobits, etc)
  - Other niche scenarios (e.g. The Melancholy of Haruhi Suzumiya, Cowboy Bebop DVD Order)
 
