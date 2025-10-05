@@ -1,13 +1,13 @@
 1604:
   tmdb_mappings:
     s1: e1-e33
-    s2: e1-e32
-    s3: e1-e8
-    s4: e1-e68
-    s5: e1-e13
-    s6: e1-e23
-    s7: e1-e12
-    s8: e1-e14
+    s2: e34-e65
+    s3: e66-e73
+    s4: e74-e141
+    s5: e142-e154
+    s6: e155-e177
+    s7: e178-e189
+    s8: e190-203
 8532:
   tmdb_mappings:
     s0: e1

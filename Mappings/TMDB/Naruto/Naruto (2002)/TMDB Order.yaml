@@ -1,9 +1,9 @@
 20:
   tmdb_mappings:
     s1: e1-e52
-    s2: e1-e52
-    s3: e1-e54
-    s4: e1-e62
+    s2: e53-e104
+    s3: e105-e158
+    s4: e159-e220
 761:
   tmdb_mappings:
     s0: e1
