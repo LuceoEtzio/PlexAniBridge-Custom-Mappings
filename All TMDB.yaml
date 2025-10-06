@@ -31,6 +31,9 @@
     s20: e878-e891
     s21: e892-e1088
     s22: e1089-
+44:
+  tmdb_mappings:
+    s0: e2-e5
 59:
   tmdb_mappings:
     s1: e1-e26
@@ -79,6 +82,12 @@
 398:
   tmdb_mappings:
     s0: e2-e3
+401:
+  tmdb_mappings:
+    s0: e6-e7
+440:
+  tmdb_mappings:
+    s0: e
 481:
   tmdb_mappings:
     s1: e1-e224
@@ -86,6 +95,9 @@
   tmdb_mappings:
     s0: e2
 664:
+  tmdb_mappings:
+    s0: e1
+756:
   tmdb_mappings:
     s0: e1
 761:
@@ -242,12 +254,24 @@
 2951:
   tmdb_mappings:
     s0: e1
+3076:
+  tmdb_mappings:
+    s0: e1-e3
+3328:
+  tmdb_mappings:
+    s0: e3
 3466:
   tmdb_mappings:
     s0: e1
 3652:
   tmdb_mappings:
     s0: e2-e6
+3674:
+  tmdb_mappings:
+    s0: e1
+3759:
+  tmdb_mappings:
+    s0: e2
 3901:
   tmdb_mappings:
     s0: e1-e3
@@ -279,6 +303,9 @@
 4792:
   tmdb_mappings:
     s0: e5
+4872:
+  tmdb_mappings:
+    s0: e3-e5
 4874:
   tmdb_mappings:
     s0: e3,e6
@@ -313,6 +340,9 @@
 5256:
   tmdb_mappings:
     s0: e22
+5279:
+  tmdb_mappings:
+    s0: e1
 5458:
   tmdb_mappings:
     s0: e1
@@ -326,6 +356,9 @@
 5947:
   tmdb_mappings:
     s0: e11
+5955:
+  tmdb_mappings:
+    s0: e1-e2
 6033:
   tmdb_mappings:
     s1: e1-e26
@@ -380,6 +413,9 @@
 6877:
   tmdb_mappings:
     s0: e15
+6896:
+  tmdb_mappings:
+    s0: e1-e9
 6945:
   tmdb_mappings:
     s0: e2
@@ -389,6 +425,9 @@
 7017:
   tmdb_mappings:
     s0: e2-e8
+7044:
+  tmdb_mappings:
+    s0: e6-e7
 7059:
   tmdb_mappings:
     s0: e4
@@ -411,6 +450,12 @@
 7902:
   tmdb_mappings:
     s0: e5-e20
+8023:
+  tmdb_mappings:
+    s0: e1-e2
+8317:
+  tmdb_mappings:
+    s0: e2
 8348:
   tmdb_mappings:
     s0: e14-e20
@@ -444,9 +489,15 @@
 8857:
   tmdb_mappings:
     s0: e1
+9047:
+  tmdb_mappings:
+    s0: e4
 9062:
   tmdb_mappings:
     s0: e2,e5
+9063:
+  tmdb_mappings:
+    s0: e3
 9107:
   tmdb_mappings:
     s14: e1-e48
@@ -463,6 +514,9 @@
 9203:
   tmdb_mappings:
     s0: e10-e12,e15-e20
+9355:
+  tmdb_mappings:
+    s0: e2
 9366:
   tmdb_mappings:
     s0: e2
@@ -500,9 +554,15 @@
 10108:
   tmdb_mappings:
     s0: e5-e20
+10119:
+  tmdb_mappings:
+    s0: e1-e8
 10209:
   tmdb_mappings:
     s0: e1-e2
+10249:
+  tmdb_mappings:
+    s0: e3-e4
 10298:
   tmdb_mappings:
     s0: e1
@@ -583,6 +643,9 @@
 11359:
   tmdb_mappings:
     s0: e1
+11441:
+  tmdb_mappings:
+    s0: e8-e9
 11701:
   tmdb_mappings:
     s0: e1
@@ -592,6 +655,9 @@
 11853:
   tmdb_mappings:
     s0: e30
+12067:
+  tmdb_mappings:
+    s0: e1
 12069:
   tmdb_mappings:
     s0: e1
@@ -625,6 +691,9 @@
 12893:
   tmdb_mappings:
     s0: e2-e7
+13055:
+  tmdb_mappings:
+    s0: e1-e2
 13067:
   tmdb_mappings:
     s0: e8-e14
@@ -722,16 +791,28 @@
 16001:
   tmdb_mappings:
     s0: e1-e4
+16273:
+  tmdb_mappings:
+    s0: e1
+16444:
+  tmdb_mappings:
+    s0: e1
 16468:
   tmdb_mappings:
     s0: e8
 16532:
   tmdb_mappings:
     s0: e15-e17
+16694:
+  tmdb_mappings:
+    s0: e3
 16700:
   tmdb_mappings:
     s0: e11
 16866:
+  tmdb_mappings:
+    s0: e1
+16868:
   tmdb_mappings:
     s0: e1
 16916:
@@ -756,6 +837,9 @@
 17277:
   tmdb_mappings:
     s0: e35
+17409:
+  tmdb_mappings:
+    s0: e2-e11
 17641:
   tmdb_mappings:
     s0: e1
@@ -777,6 +861,9 @@
 18441:
   tmdb_mappings:
     s0: e1
+18531:
+  tmdb_mappings:
+    s0: e2-e13
 18661:
   tmdb_mappings:
     s0: e1-e2
@@ -833,6 +920,9 @@
 19671:
   tmdb_mappings:
     s0: e1-e4|2,e5-e7|3
+19697:
+  tmdb_mappings:
+    s0: e5-e6
 19845:
   tmdb_mappings:
     s0: e24-e35,e38
@@ -919,6 +1009,10 @@
     s0: e2-e9
     s5: e1-e35
     s6: e1-e26
+20657:
+  tmdb_mappings:
+    s0: e1
+    s1: e1-e12
 20659:
   tmdb_mappings:
     s0: e1
@@ -931,6 +1025,9 @@
 20683:
   tmdb_mappings:
     s0: e38,e41-e42,e50
+20686:
+  tmdb_mappings:
+    s0: e7
 20687:
   tmdb_mappings:
     s0: e2
@@ -982,6 +1079,9 @@
 20824:
   tmdb_mappings:
     s0: e3
+20826:
+  tmdb_mappings:
+    s0: e9-e18
 20837:
   tmdb_mappings:
     s0: e1
@@ -1067,6 +1167,10 @@
 21175:
   tmdb_mappings:
     s1: e1-e131
+21180:
+  tmdb_mappings:
+    s0: e2
+    s2: e1-e11
 21186:
   tmdb_mappings:
     s0: e3-e6
@@ -1091,6 +1195,9 @@
 21304:
   tmdb_mappings:
     s0: e49
+21305:
+  tmdb_mappings:
+    s0: e1-e8
 21318:
   tmdb_mappings:
     s0: e2
@@ -1151,6 +1258,9 @@
 21520:
   tmdb_mappings:
     s0: e22-e33
+21565:
+  tmdb_mappings:
+    s0: e1
 21573:
   tmdb_mappings:
     s0: e16
@@ -1229,6 +1339,9 @@
 87488:
   tmdb_mappings:
     s0: e18-e23
+87489:
+  tmdb_mappings:
+    s0: e9
 87528:
   tmdb_mappings:
     s0: e1
@@ -1261,6 +1374,9 @@
 98033:
   tmdb_mappings:
     s0: e7
+98186:
+  tmdb_mappings:
+    s0: e1-e7,e9-e14
 98502:
   tmdb_mappings:
     s0: e1-e7
@@ -1276,6 +1392,12 @@
 98580:
   tmdb_mappings:
     s0: e8
+98629:
+  tmdb_mappings:
+    s0: e2-e3
+98635:
+  tmdb_mappings:
+    s0: e1-e4
 98702:
   tmdb_mappings:
     s0: e4-e5
@@ -1336,6 +1458,9 @@
 100523:
   tmdb_mappings:
     s0: e1-e2
+100684:
+  tmdb_mappings:
+    s0: e1
 100721:
   tmdb_mappings:
     s0: e1
@@ -1345,6 +1470,12 @@
 100912:
   tmdb_mappings:
     s0: e1-e2
+101083:
+  tmdb_mappings:
+    s0: e14-e26
+101098:
+  tmdb_mappings:
+    s0: e10-e11
 101206:
   tmdb_mappings:
     s0: e1-e3
@@ -1423,6 +1554,12 @@
 102946:
   tmdb_mappings:
     s0: e1-e6
+102969:
+  tmdb_mappings:
+    s0: e1
+103209:
+  tmdb_mappings:
+    s0: e27-e39
 103223:
   tmdb_mappings:
     s1: e25-e36
@@ -1438,6 +1575,9 @@
 104199:
   tmdb_mappings:
     s0: e1
+104200:
+  tmdb_mappings:
+    s0: e2-e3
 104217:
   tmdb_mappings:
     s0: e1-e3
@@ -1483,6 +1623,9 @@
 106542:
   tmdb_mappings:
     s0: e15
+106895:
+  tmdb_mappings:
+    s0: e1-e3
 107138:
   tmdb_mappings:
     s0: e1
@@ -1492,6 +1635,9 @@
 107263:
   tmdb_mappings:
     s0: e6-e8
+107264:
+  tmdb_mappings:
+    s0: e40-e42
 107342:
   tmdb_mappings:
     s0: e1
@@ -1504,9 +1650,15 @@
 107622:
   tmdb_mappings:
     s0: e1-e3
+107692:
+  tmdb_mappings:
+    s0: e6-e7
 108632:
   tmdb_mappings:
     s1: e26-e38
+108939:
+  tmdb_mappings:
+    s0: e5-e6
 108942:
   tmdb_mappings:
     s0: e20-e23
@@ -1552,6 +1704,9 @@
 110445:
   tmdb_mappings:
     s0: e1
+110693:
+  tmdb_mappings:
+    s0: e1
 111729:
   tmdb_mappings:
     s0: e15-e16
@@ -1561,6 +1716,9 @@
 111852:
   tmdb_mappings:
     s0: e4
+112031:
+  tmdb_mappings:
+    s0: e1
 112125:
   tmdb_mappings:
     s0: e3
@@ -1573,6 +1731,9 @@
 113811:
   tmdb_mappings:
     s0: e1-e2|2
+113813:
+  tmdb_mappings:
+    s1: e1-e12
 113924:
   tmdb_mappings:
     s0: e1
@@ -1624,6 +1785,9 @@
 121043:
   tmdb_mappings:
     s0: e1-e12
+122041:
+  tmdb_mappings:
+    s0: e8-e9
 122349:
   tmdb_mappings:
     s0: e6-e7
@@ -1634,6 +1798,9 @@
   tmdb_show_id: 11767
   tmdb_mappings:
     s1: e1-e12
+124410:
+  tmdb_mappings:
+    s1: e13-e24
 124756:
   tmdb_mappings:
     s0: e25,e28-e29
@@ -1698,6 +1865,9 @@
 134710:
   tmdb_mappings:
     s0: e1
+135866:
+  tmdb_mappings:
+    s0: e16
 136145:
   tmdb_mappings:
     s0: e1
@@ -1755,6 +1925,9 @@
 142876:
   tmdb_mappings:
     s0: e3
+143082:
+  tmdb_mappings:
+    s0: e1
 143277:
   tmdb_mappings:
     s1: e1-e23
@@ -1815,6 +1988,9 @@
 151801:
   tmdb_mappings:
     s1: e1-e12
+151898:
+  tmdb_mappings:
+    s0: e43-e55
 153288:
   tmdb_mappings:
     s1: e1-e12
@@ -1827,6 +2003,9 @@
 154178:
   tmdb_mappings:
     s0: e1-e3,e5-e7
+154745:
+  tmdb_mappings:
+    s1: e25-e36
 154768:
   tmdb_mappings:
     s1: e13-e24
@@ -1902,6 +2081,9 @@
 170577:
   tmdb_mappings:
     s2: e1-
+170620:
+  tmdb_mappings:
+    s0: e56
 170935:
   tmdb_mappings:
     s2: e1-e4
@@ -1917,6 +2099,9 @@
 177007:
   tmdb_mappings:
     s0: e6-e8
+177709:
+  tmdb_mappings:
+    s1: e1-e11
 178031:
   tmdb_mappings:
     s2: e1-
@@ -1932,6 +2117,9 @@
 178781:
   tmdb_mappings:
     s2: e13-e24
+179344:
+  tmdb_mappings:
+    s1: e37-e48
 179706:
   tmdb_mappings:
     s0: e5-e10
@@ -1944,12 +2132,18 @@
 181244:
   tmdb_mappings:
     s0: e3-e4
+184237:
+  tmdb_mappings:
+    s1: e12-e22
 185660:
   tmdb_mappings:
     s1: e13-e24
 185874:
   tmdb_mappings:
     s2: e41-
+187236:
+  tmdb_mappings:
+    s0: e5
 189123:
   tmdb_mappings:
     s2: e1-
