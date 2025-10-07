@@ -26,7 +26,7 @@
     s15: e581-e642
     s16: e643-e692
     s17: e693-e748
-    s18: e759-e803
+    s18: e749-e803
     s19: e804-e877
     s20: e878-e891
     s21: e892-e1088
@@ -93,7 +93,7 @@
     s0: e6-e7
 440:
   tmdb_mappings:
-    s0: e
+    s1: e1-e39
 481:
   tmdb_mappings:
     s1: e1-e224
@@ -685,7 +685,7 @@
     s0: e1-e4
 11266:
   tmdb_mappings:
-    s0: e5
+    s0: e6
 11359:
   tmdb_mappings:
     s0: e1
@@ -976,7 +976,7 @@
     s18: e1-e45
 19391:
   tmdb_mappings:
-    s0: e2-e10
+    s0: e2-e6,e8-e10,e12
 19511:
   tmdb_mappings:
     s0: e3
@@ -2076,6 +2076,9 @@
 123803:
   tmdb_mappings:
     s0: e1-e12
+124138:
+  tmdb_mappings:
+    s0: e1-e23
 124410:
   tmdb_mappings:
     s1: e13-e24
@@ -2278,6 +2281,9 @@
 147103:
   tmdb_mappings:
     s1: e1-e12
+147728:
+  tmdb_mappings:
+    s0: e1-e18
 147850:
   tmdb_mappings:
     s1: e1-e12
@@ -2495,6 +2501,9 @@
 177008:
   tmdb_mappings:
     s0: e21-e26
+177062:
+  tmdb_mappings:
+    s0: e1-e12
 177098:
   tmdb_mappings:
     s0: e1
@@ -2531,6 +2540,9 @@
 181244:
   tmdb_mappings:
     s0: e3-e4
+181440:
+  tmdb_mappings:
+    s0: e2
 184237:
   tmdb_mappings:
     s1: e12-e22

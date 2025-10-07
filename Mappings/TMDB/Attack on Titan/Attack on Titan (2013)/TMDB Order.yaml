@@ -3,7 +3,7 @@
     s0: e7,e13-e14
 19391:
   tmdb_mappings:
-    s0: e2-e10
+    s0: e2-e6,e8-e10,e12
 20811:
   tmdb_mappings:
     s0: e15-e16
