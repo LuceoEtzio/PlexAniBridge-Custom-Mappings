@@ -1,0 +1,12 @@
+161645:
+  tmdb_mappings:
+    s1: e1-e24
+170508:
+  tmdb_mappings:
+    s0: e1-e24
+176301:
+  tmdb_mappings:
+    s1: e25-e48
+186148:
+  tmdb_mappings:
+    s0: e25-e46,e49-e50
