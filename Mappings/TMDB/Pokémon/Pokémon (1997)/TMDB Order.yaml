@@ -6,6 +6,7 @@
     s0: e18
 1564:
   tmdb_mappings:
+    s0: e54
     s6: e1-e40
     s7: e1-e52
     s8: e1-e53
@@ -114,6 +115,14 @@
 106499:
   tmdb_mappings:
     s19: e48-e49
+112153:
+  tmdb_mappings:
+    s23: e1-e48
+    s24: e1-e42
+    s25: e1-e46
 158869:
   tmdb_mappings:
     s0: e52
+158870:
+  tmdb_mappings:
+    s25: e47-e57
