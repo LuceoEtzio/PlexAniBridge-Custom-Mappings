@@ -34,6 +34,7 @@
 26:
   tmdb_mappings:
     s0: e2-e3
+    s1: e1-e20
 44:
   tmdb_mappings:
     s0: e2-e5
@@ -43,6 +44,7 @@
 72:
   tmdb_mappings:
     s0: e1-e2|2
+    s2: e1-e11
 137:
   tmdb_mappings:
     s0: e1-e8
@@ -2519,6 +2521,9 @@
 174417:
   tmdb_mappings:
     s0: e1-e12
+175019:
+  tmdb_mappings:
+    s1: e1-e13
 176301:
   tmdb_mappings:
     s1: e25-e48
@@ -2557,7 +2562,7 @@
     s1: e13-e23
 178781:
   tmdb_mappings:
-    s2: e13-e24
+    s1: e13-e24
 179344:
   tmdb_mappings:
     s1: e37-e48
@@ -2585,6 +2590,9 @@
 185660:
   tmdb_mappings:
     s1: e13-e24
+185801:
+  tmdb_mappings:
+    s1: e14-e24
 185874:
   tmdb_mappings:
     s2: e41-
