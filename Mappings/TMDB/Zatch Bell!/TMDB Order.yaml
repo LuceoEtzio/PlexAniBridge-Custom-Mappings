@@ -1,0 +1,9 @@
+250:
+  tmdb_mappings:
+    s1: e1-e150
+7430:
+  tmdb_mappings:
+    s0: e1
+10732:
+  tmdb_mappings:
+    s0: e2
