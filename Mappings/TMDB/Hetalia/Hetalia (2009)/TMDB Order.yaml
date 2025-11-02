@@ -1,0 +1,29 @@
+5060:
+  tmdb_mappings:
+    s1: e1-e26
+    s2: e1-e26
+8479:
+  tmdb_mappings:
+    s3: e1-e48
+9865:
+  tmdb_mappings:
+    s0: e1-e3
+10497:
+  tmdb_mappings:
+    s0: e4-e7
+15195:
+  tmdb_mappings:
+    s4: e1-e20
+17273:
+  tmdb_mappings:
+    s0: e8-e11
+20962:
+  tmdb_show_id: 35138
+  tmdb_mappings:
+    s5: e1-e15
+99883:
+  tmdb_mappings:
+    s0: e13-e15
+102036:
+  tmdb_mappings:
+    s0: e12

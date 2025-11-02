@@ -1,0 +1,8 @@
+21126:
+  tmdb_mappings:
+    s0: e1
+    s1: e1-e12
+98576:
+  tmdb_show_id: 69239
+  tmdb_mappings:
+    s0: e2-e3|2

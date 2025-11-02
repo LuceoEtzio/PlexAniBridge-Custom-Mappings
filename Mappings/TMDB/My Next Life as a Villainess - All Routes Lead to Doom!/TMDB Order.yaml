@@ -1,3 +1,15 @@
+116922:
+  tmdb_show_id: 94904
+  tmdb_mappings:
+    s0: e1-e14,e16-e19,e22-e23,e28-e33
+119960:
+  tmdb_show_id: 94904
+  tmdb_mappings:
+    s0: e34-e42
 136829:
   tmdb_mappings:
     s0: e66
+148002:
+  tmdb_show_id: 94904
+  tmdb_mappings:
+    s0: e43-e65

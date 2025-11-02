@@ -1,0 +1,8 @@
+116328:
+  tmdb_show_id: 93688
+  tmdb_mappings:
+    s0: e1-e36,e38,e40,e42,e44,e46,e48
+143391:
+  tmdb_show_id: 93688
+  tmdb_mappings:
+    s0: e37,e39,e41,e43,e45,e47,e49-e51

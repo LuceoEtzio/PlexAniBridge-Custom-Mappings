@@ -1,0 +1,30 @@
+1066:
+  tmdb_mappings:
+    s0: e1,e6,e14,e16
+1531:
+  tmdb_mappings:
+    s0: e15
+3221:
+  tmdb_mappings:
+    s0: e19
+3956:
+  tmdb_mappings:
+    s0: e20,e25,e30
+6330:
+  tmdb_mappings:
+    s0: e2-e5,e7-e10
+6572:
+  tmdb_mappings:
+    s0: e31,e33,e35,e37
+7375:
+  tmdb_mappings:
+    s0: e32,e34,e36,e38
+12823:
+  tmdb_mappings:
+    s0: e39-e40
+14957:
+  tmdb_mappings:
+    s0: e21-e24,e26-e29
+17551:
+  tmdb_mappings:
+    s0: e17
