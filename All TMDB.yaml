@@ -382,6 +382,12 @@
 3328:
   tmdb_mappings:
     s0: e3
+3429:
+  tmdb_mappings:
+    s0: e1
+3430:
+  tmdb_mappings:
+    s0: e2-e3
 3447:
   tmdb_mappings:
     s0: e53
@@ -2410,6 +2416,9 @@
 102090:
   tmdb_mappings:
     s0: e8
+102098:
+  tmdb_mappings:
+    s0: e1
 102167:
   tmdb_mappings:
     s0: e1
