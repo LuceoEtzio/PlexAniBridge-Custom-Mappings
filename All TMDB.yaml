@@ -221,7 +221,6 @@
   tmdb_mappings:
     s0: e1
 1335:
-  tmdb_show_id: 1095
   tmdb_mappings:
     s0: e1-e26
 1368:
@@ -384,14 +383,12 @@
   tmdb_mappings:
     s0: e3
 3447:
-  tmdb_show_id: 1095
   tmdb_mappings:
     s0: e53
 3466:
   tmdb_mappings:
     s0: e1
 3485:
-  tmdb_show_id: 1095
   tmdb_mappings:
     s0: e27-e52
 3593:
@@ -1185,7 +1182,6 @@
   tmdb_mappings:
     s0: e7
 15411:
-  tmdb_show_id: 45275
   tmdb_mappings:
     s0: e1
 15437:
@@ -1216,7 +1212,6 @@
   tmdb_mappings:
     s0: e2-e7
 15811:
-  tmdb_show_id: 43967
   tmdb_mappings:
     s0: e2,e10,e15,e20,e24,e28
 15879:
@@ -1743,7 +1738,6 @@
   tmdb_mappings:
     s0: e1
 20962:
-  tmdb_show_id: 35138
   tmdb_mappings:
     s5: e1-e15
 20970:
@@ -1939,7 +1933,6 @@
   tmdb_mappings:
     s0: e1
 21383:
-  tmdb_show_id: 63499
   tmdb_mappings:
     s0: e1
 21384:
@@ -2043,7 +2036,6 @@
   tmdb_mappings:
     s0: e3
 21649:
-  tmdb_show_id: 43967
   tmdb_mappings:
     s0: e38
 21650:
@@ -2212,7 +2204,6 @@
   tmdb_mappings:
     s0: e5
 98576:
-  tmdb_show_id: 69239
   tmdb_mappings:
     s0: e2-e3|2
 98580:
@@ -2222,11 +2213,9 @@
   tmdb_mappings:
     s0: e4-e5
 98621:
-  tmdb_show_id: 71018
   tmdb_mappings:
     s0: e17-e23
 98622:
-  tmdb_show_id: 71018
   tmdb_mappings:
     s0: e5-e16
 98629:
@@ -2745,7 +2734,6 @@
   tmdb_mappings:
     s0: e1
 114052:
-  tmdb_show_id: 43967
   tmdb_mappings:
     s0: e46
 114195:
@@ -2764,14 +2752,12 @@
   tmdb_mappings:
     s0: e1
 116328:
-  tmdb_show_id: 93688
   tmdb_mappings:
     s0: e1-e36,e38,e40,e42,e44,e46,e48
 116674:
   tmdb_mappings:
     s2: e1-e13
 116922:
-  tmdb_show_id: 94904
   tmdb_mappings:
     s0: e1-e14,e16-e19,e22-e23,e28-e33
 116923:
@@ -2811,7 +2797,6 @@
   tmdb_mappings:
     s0: e6|-2
 119960:
-  tmdb_show_id: 94904
   tmdb_mappings:
     s0: e34-e42
 120120:
@@ -2857,7 +2842,6 @@
   tmdb_mappings:
     s0: e25,e28-e29
 124874:
-  tmdb_show_id: 71018
   tmdb_mappings:
     s0: e24-e33
 124896:
@@ -2906,30 +2890,24 @@
   tmdb_mappings:
     s0: e1-e12
 128397:
-  tmdb_show_id: 105004
   tmdb_mappings:
     s0: e1-e8
 128398:
-  tmdb_show_id: 105004
   tmdb_mappings:
     s0: e9-e18
 128526:
-  tmdb_show_id: 105004
   tmdb_mappings:
     s0: e20,e22,e24,e26,e28,e30,e32,e34-e36
 128527:
-  tmdb_show_id: 105004
   tmdb_mappings:
     s0: e19,e21,e23,e25,e27,e29,e31,e33
 128643:
   tmdb_mappings:
     s0: e3
 128675:
-  tmdb_show_id: 106782
   tmdb_mappings:
     s0: e1-e33
 128703:
-  tmdb_show_id: 94541
   tmdb_mappings:
     s0: e1-e13
 129277:
@@ -2942,7 +2920,6 @@
   tmdb_mappings:
     s0: e3
 130362:
-  tmdb_show_id: 43967
   tmdb_mappings:
     s0: e8,e11,e16,e21,e25,e29
 130389:
@@ -3085,7 +3062,6 @@
   tmdb_mappings:
     s1: e1-e23
 143391:
-  tmdb_show_id: 93688
   tmdb_mappings:
     s0: e37,e39,e41,e43,e45,e47,e49-e51
 143846:
@@ -3095,7 +3071,6 @@
   tmdb_mappings:
     s0: e6-e9
 144803:
-  tmdb_show_id: 43967
   tmdb_mappings:
     s0: e52
 144932:
@@ -3132,7 +3107,6 @@
   tmdb_mappings:
     s1: e1-e12
 148002:
-  tmdb_show_id: 94904
   tmdb_mappings:
     s0: e43-e65
 148295:
@@ -3194,7 +3168,6 @@
   tmdb_mappings:
     s0: e50-e66
 152636:
-  tmdb_show_id: 218833
   tmdb_mappings:
     s0: e1
 153152:
@@ -3213,18 +3186,15 @@
   tmdb_mappings:
     s0: e12-e13,e15-e16,e18-e19,e21-e23,e25-e27
 154146:
-  tmdb_show_id: 43967
   tmdb_mappings:
     s0: e39-e40
 154174:
-  tmdb_show_id: 62104
   tmdb_mappings:
     s0: e10-e48
 154178:
   tmdb_mappings:
     s0: e1-e3,e5-e7
 154197:
-  tmdb_show_id: 62104
   tmdb_mappings:
     s0: e49
 154198:
@@ -3270,7 +3240,6 @@
   tmdb_mappings:
     s0: e3-e26
 157653:
-  tmdb_show_id: 218833
   tmdb_mappings:
     s0: e2
 157654:
@@ -3292,7 +3261,6 @@
   tmdb_mappings:
     s2: e14-e26
 159690:
-  tmdb_show_id: 206324
   tmdb_mappings:
     s0: e1-e13
 160054:
@@ -3317,7 +3285,6 @@
   tmdb_mappings:
     s1: e1-e12
 162802:
-  tmdb_show_id: 156563
   tmdb_mappings:
     s0: e1-e18
 163134:
@@ -3345,7 +3312,6 @@
   tmdb_mappings:
     s0: e2
 165931:
-  tmdb_show_id: 117024
   tmdb_mappings:
     s0: e1-e44
 166060:
@@ -3367,7 +3333,6 @@
   tmdb_mappings:
     s1: e13-e24
 166973:
-  tmdb_show_id: 153337
   tmdb_mappings:
     s0: e16-e36
 167140:
@@ -3383,7 +3348,6 @@
   tmdb_mappings:
     s0: e1-e6
 169322:
-  tmdb_show_id: 153337
   tmdb_mappings:
     s0: e1-e15
 169373:
@@ -3471,7 +3435,6 @@
   tmdb_mappings:
     s1: e26-e50
 176663:
-  tmdb_show_id: 43967
   tmdb_mappings:
     s0: e58
 176858:
@@ -3499,7 +3462,6 @@
   tmdb_mappings:
     s0: e3-e4,e6-e7,e9-e10,e12-e13,e15-e16,e18,e20
 177436:
-  tmdb_show_id: 88042
   tmdb_mappings:
     s0: e1-e42
 177697:
@@ -3561,11 +3523,7 @@
   tmdb_mappings:
     s1: e12-e22
 184642:
-  tmdb_show_id: 114478
-  tvdb_id: 393190
   tmdb_mappings:
-    s3: e1-e9
-  tvdb_mappings:
     s3: e1-e9
 185660:
   tmdb_mappings:
@@ -3583,7 +3541,6 @@
   tmdb_mappings:
     s0: e5
 187261:
-  tmdb_show_id: 60863
   tmdb_mappings:
     s0: e9
 189123:
@@ -3596,6 +3553,5 @@
   tmdb_mappings:
     s0: e1-e14
 194403:
-  tmdb_show_id: 65930
   tmdb_mappings:
     s0: e17
