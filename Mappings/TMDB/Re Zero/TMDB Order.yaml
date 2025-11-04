@@ -7,6 +7,9 @@
 21891:
   tmdb_mappings:
     s0: e12-e25
+100049:
+  tmdb_mappings:
+    s0: e26,e28
 108632:
   tmdb_mappings:
     s1: e26-e38
@@ -15,10 +18,13 @@
     s1: e39-e50
 120700:
   tmdb_mappings:
-    s0: e26-e38
+    s0: e30-e42
 128306:
   tmdb_mappings:
-    s0: e39-e50
+    s0: e43-e54
 163134:
   tmdb_mappings:
     s1: e51-e66
+182417:
+  tmdb_mappings:
+    s0: e55-e70

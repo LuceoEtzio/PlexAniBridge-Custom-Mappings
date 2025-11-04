@@ -17,6 +17,9 @@
     s11: e1-e52
     s12: e1-e53
     s13: e1-e34
+1709:
+  tmdb_mappings:
+    s0: e13
 2842:
   tmdb_mappings:
     s0: e20
@@ -32,6 +35,9 @@
 5256:
   tmdb_mappings:
     s0: e22
+5844:
+  tmdb_mappings:
+    s0: e17
 5845:
   tmdb_mappings:
     s0: e16
@@ -47,6 +53,9 @@
 6877:
   tmdb_mappings:
     s0: e15
+7550:
+  tmdb_mappings:
+    s0: e21
 8438:
   tmdb_mappings:
     s0: e26
@@ -112,6 +121,9 @@
     s20: e1-e43
     s21: e1-e49
     s22: e1-e54
+105616:
+  tmdb_mappings:
+    s0: e43-e48
 106499:
   tmdb_mappings:
     s19: e48-e49
