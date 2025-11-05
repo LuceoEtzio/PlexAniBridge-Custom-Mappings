@@ -1,7 +1,6 @@
-141534:
+99054:
   tmdb_mappings:
     s0: e1
-146065:
+107298:
   tmdb_mappings:
-    s0: e2
-    s2: e1-e12
+    s0: e3-e8|6
