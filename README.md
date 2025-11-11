@@ -13,10 +13,4 @@ This repo contains alternative custom mappings for various series, for various s
 
  ---
 
- # TMDB Order
-
-If you are using TMDB as the default order for your library, a combined file containing all regular TMDB mappings is included
-
- ---
-
  PRs are welcome, details about the format and technical capabalities can be found in the [PlexAniBridge custom mapping documentation](https://plexanibridge.elias.eu.org/advanced/custom-mappings/).
