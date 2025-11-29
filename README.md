@@ -13,4 +13,4 @@ This repo contains alternative custom mappings for various series, for various s
 
  ---
 
- PRs are welcome, details about the format and technical capabalities can be found in the [PlexAniBridge custom mapping documentation](https://plexanibridge.elias.eu.org/advanced/custom-mappings/).
+ PRs are welcome, details about the format and technical capabilities can be found in the [PlexAniBridge custom mapping documentation](https://plexanibridge.elias.eu.org/advanced/custom-mappings/).
