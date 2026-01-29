@@ -112,6 +112,12 @@
 269:
   tmdb_mappings:
     s1: e1-e366
+312:
+  tmdb_mappings:
+    s1: e1-e12
+314:
+  tmdb_mappings:
+    s1: e1-e13
 376:
   tmdb_mappings:
     s0: e1
@@ -913,6 +919,9 @@
 8532:
   tmdb_mappings:
     s0: e1
+8542:
+  tmdb_mappings:
+    s1: e1-e25
 8619:
   tmdb_mappings:
     s0: e7
